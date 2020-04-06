@@ -1,6 +1,3 @@
 # University work, analyze and re-design with Normans design principles as reference.
-<object data="https://github.com/pedric/ID404F-VT20-lab_2/blob/master/id404f_dp2_fredrik_larsson.pdf" type="application/pdf" width="700px" height="auto">
-    <embed src="https://github.com/pedric/ID404F-VT20-lab_2/blob/master/id404f_dp2_fredrik_larsson.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/pedric/ID404F-VT20-lab_2/blob/master/id404f_dp2_fredrik_larsson.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<div class="pdf-container loaded" data-file="https://raw.githubusercontent.com/pedric/ID404F-VT20-lab_2/46abe711c556357d855fa6e94a3a53a3b01b9846/id404f_dp2_fredrik_larsson.pdf" data-worker="/assets/pdf/worker-de03a6262fe73d7da5661d85cbb46962.js" data-bcmap-dir="https://render.githubusercontent.com/pdf/">
+<canvas class="pdf-page" data-page="0" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="1" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="2" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="3" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="4" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="5" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="6" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="7" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="8" height="2828" width="2000"></canvas><canvas class="pdf-page" data-page="9" height="2828" width="2000"></canvas></div>
